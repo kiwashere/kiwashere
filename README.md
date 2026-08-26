@@ -1,12 +1,12 @@
 # kiwashere 👋
 
-Building things for the crypto ecosystem.
+Building tools for the crypto ecosystem.
 
 ## What I do
 
-- Smart contract development
 - On-chain data tooling
-- Web3 automation
+- Trading & DeFi automation
+- Web3 integrations
 
 ## Stack
 
