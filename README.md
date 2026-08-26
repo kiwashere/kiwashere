@@ -1,6 +1,6 @@
 # kiwashere 👋
 
-Building tools for the crypto ecosystem.
+vibecoder 🕶️ — building crypto tools by vibes.
 
 ## What I do
 
@@ -10,7 +10,7 @@ Building tools for the crypto ecosystem.
 
 ## Stack
 
-`Python` · `Node.js` · `Solidity` · `Foundry` · `SQLite`
+`Python` · `Node.js` · `SQLite` · whatever Claude/GPT writes for me
 
 ## Reach me
 
